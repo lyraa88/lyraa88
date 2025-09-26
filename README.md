@@ -34,7 +34,7 @@ The main tools and technologies I work with:
 ## 📊 GitHub Stats (Commit Streak)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyraa88&show_icons=true&theme=default&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=007ACC&text_color=333" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=default&hide_border=true&stroke=007ACC&background=FFFFFF&ring=007ACC&side_main=007ACC&date=202509261703" alt="GitHub Streak" />
 </p>
 <br/>
 
