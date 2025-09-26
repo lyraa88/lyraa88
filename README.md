@@ -34,19 +34,17 @@ The main tools and technologies I work with:
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lyraa88&show_icons=true&theme=default&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Eunsoo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraa88&layout=compact&theme=default&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Most Used Languages" />
-</p>
-
-### 📅 Commit Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=default&hide_border=true&stroke=007ACC&background=FFFFFF&ring=007ACC&side_main=007ACC" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.herokuapp.com/?user=lyraa88&theme=default&hide_border=true&stroke=007ACC&background=FFFFFF&ring=007ACC&side_main=007ACC" alt="GitHub Streak" />
 </p>
 <br/>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lyraa88&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub views" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lyraa88&show_icons=true&theme=default&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Eunsoo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraa88&layout=compact&theme=default&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lyraa88&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub views" />
 </p>
 
 ---
@@ -55,10 +53,10 @@ The main tools and technologies I work with:
 
 ### 🧑‍💻 About Me
       
-- 🎓 **Data Science**를 전공했습니다.
-- 💡 **머신러닝(Machine Learning)**, **자연어 처리(NLP)**, **추천 시스템(Recommendation Systems)**에 관심이 있습니다.
-- 🔍 분석적 사고, 재현 가능한 워크플로우, 클린 코드에 중점을 둡니다.
-- 📈 데이터 기반 의사 결정과 지속적인 학습을 중요하게 생각합니다.
+- 🎓 Studied **Data Science**.
+- 💡 Interested in **Machine Learning**, **Natural Language Processing (NLP)**, and **Recommendation Systems**.
+- 🔍 Focused on analytical thinking, reproducible workflows, and clean code.
+- 📈 A strong believer in data-driven decision making and continuous learning.
 
 ### 📧 Let's Connect!
       
@@ -68,18 +66,18 @@ The main tools and technologies I work with:
 ### 📁 Highlighted Projects
 
 #### 🎧 Mutism – Real-Time Auditory Support System for Autism
-  - 자폐 스펙트럼 장애가 있는 개인을 지원하기 위해 실시간으로 민감한 소리를 감지하고 분류하는 AI 기반 청각 보조 시스템입니다.
-  - MediaPipe, YamNet, TFLite를 Android 애플리케이션에 통합했습니다.
+  - AI-powered auditory assistant that detects and classifies sensitive sounds in real time to support individuals on the autism spectrum.
+  - Integrated MediaPipe, YamNet, and TFLite into an Android application.
   - [**Github Repo**](https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git)
 
 #### ✍️ Moodinary – Emotion-Aware Journal Application
-  - 일기 항목을 분석하고 지배적인 감정을 분류하기 위해 **BERT 기반 NLP 모델**을 구축했습니다.
-  - 감정적 웰빙을 지원하기 위해 개인화된 피드백 및 감정 추적 시각화를 제공합니다.
+  - Built a BERT-based NLP model to analyze journal entries and classify dominant emotions.
+  - Provides personalized feedback and emotion-tracking visualizations to support emotional well-being.
   - [**Github Repo**](https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git)
 
 #### 👟 Sneaker Resale Price Prediction (Research Project)
-  - 구조화된 마켓플레이스 데이터를 사용하여 운동화 재판매 가격을 예측하는 연구 중심 ML 프로젝트입니다.
-  - 회귀 모델 및 시간 민감형 피처를 적용하여 유행 트렌드 및 브랜드 효과를 포착했습니다.
+  - Research-driven ML project to predict sneaker resale prices using structured marketplace data.
+  - Applied regression models and time-sensitive features to capture hype trends and brand effects.
   - [**Paper Link**](https://ki-it.or.kr/board/maininfo/article/250682)
 
 ---
