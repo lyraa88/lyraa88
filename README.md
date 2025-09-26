@@ -34,7 +34,7 @@ The main tools and technologies I work with:
 ## 📊 GitHub Stats (Commit Streak)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=default&hide_border=true&stroke=007ACC&background=FFFFFF&ring=007ACC&side_main=007ACC" alt="Eunsoo's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=default&hide_border=true&stroke=007ACC&background=FFFFFF&ring=007ACC&side_main=007ACC&refresh=1" alt="GitHub Streak">
 </p>
 <br/>
 
