@@ -2,7 +2,7 @@
 <h3 align="center">Focused on building scalable data pipelines, robust ETL/ELT workflows, and cloud-based data solutions in large-scale environments.</h3>
 
 <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraa88&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -13,9 +13,9 @@ The main tools and technologies I utilize to ensure **data integrity** and **wor
 
 ### 📊 Data Processing & Big Data
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.co/badge/Apache_Kafka-232F3E?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-232F3E?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CC66?style=for-the-badge&logo=hadoop&logoColor=white"/>
 </p>
 
@@ -30,9 +30,9 @@ The main tools and technologies I utilize to ensure **data integrity** and **wor
 
 ### 💾 Database & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -42,12 +42,12 @@ The main tools and technologies I utilize to ensure **data integrity** and **wor
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lyraa88&show_icons=true&theme=default&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=007ACC&text_color=333" alt="lyraa88's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraa88&layout=compact&theme=default&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lyraa88&show_icons=true&theme=default&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=007ACC&text_color=333" alt="lyraa88's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraa88&layout=compact&theme=default&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyraa88&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub views" />
+  <img src="https://komarev.com/ghpvc/?username=lyraa88&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub views" />
 </p>
 
 ---
@@ -62,30 +62,45 @@ The main tools and technologies I utilize to ensure **data integrity** and **wor
 - 📈 Driven by passion for building systems that enable **data-driven decision making**.
 
 ### 📧 Let's Connect!
-      
+      
 - Email: **[lyra8123@gmail.com](mailto:lyra8123@gmail.com)**
 - GitHub: **[github.com/lyraa88](https://github.com/lyraa88)**
 
 ### 📁 Highlighted Projects
 
 #### 1. ⚙️ MLOps - Model Serving Pipeline (Docker)
-  - Established a **Docker-based deployment (Serving) environment** for ML models and implemented CI/CD pipeline concepts.
+  - Established a **Docker-based deployment (Serving) environment** for ML models and implemented CI/CD pipeline concepts.
   - Emphasis on **reproducibility** and operational management.
-  - [**Github Repo**](https://github.com/lyraa88/mlops-docker-seminar)
+  - [**Github Repo**](https://github.com/lyraa88/mlops-docker-seminar)
 
 #### 2. 🎧 Real-Time Auditory Support System Data Streaming Pipeline
-  - Designed and implemented a **real-time ingestion and streaming pipeline** for sensor/audio data using **Kafka**.
-  - Built automated batch **ETL** jobs (using **Spark/Airflow**) and established an **AWS S3** data lake.
-  - [**Github Repo**](https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git)
+  - Designed and implemented a **real-time ingestion and streaming pipeline** for sensor/audio data using **Kafka**.
+  - Built automated batch **ETL** jobs (using **Spark/Airflow**) and established an **AWS S3** data lake.
+  - [**Github Repo**](https://github.com/GDSC-SWU/2025-Mutism-SolutionChallenge.git)
 
 #### 3. ✍️ Emotion-Aware Journal Application ETL Automation
-  - Developed **Airflow DAGs** to automate the collection, transformation, and loading of user data into a **PostgreSQL** data mart.
-  - Focus on designing data validation and quality check processes.
-  - [**Github Repo**](https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git)
+  - Developed **Airflow DAGs** to automate the collection, transformation, and loading of user data into a **PostgreSQL** data mart.
+  - Focus on designing data validation and quality check processes.
+  - [**Github Repo**](https://github.com/GDSC-SWU/2024-Moodinary-HultPrize.git)
 
 #### 4. 👟 Sneaker Resale Price Prediction Data Integration & Cleansing
-  - Developed scripts for efficient **collection, integration, and normalization** of fragmented marketplace data.
-  - Emphasis on the data preparation stage and schema design for analysis.
-  - [**Paper Link**](https://ki-it.or.kr/board/maininfo/article/250682)
+  - Developed scripts for efficient **collection, integration, and normalization** of fragmented marketplace data.
+  - Emphasis on the data preparation stage and schema design for analysis.
+  - [**Paper Link**](https://ki-it.or.kr/board/maininfo/article/250682)
+
+#### 5. 🗄️ Scalable Distributed NoSQL Database Architecture
+  - Experimented with and analyzed **NoSQL cluster architectures** focusing on high availability and fault tolerance.
+  - Specialized in configuring distributed data storage setups for managing large-scale workloads efficiently.
+  - [**Github Repo**](https://github.com/lyraa88/team_cassandra_2.git)
+
+#### 6. 🐳 Real-Time MLOps & Continuous Retraining Pipeline
+  - Built an end-to-end MLOps architecture featuring **real-time data ingestion and automated continuous retraining**.
+  - Leveraged **Docker multi-containers** to isolate pipelines, optimizing model adaptation for streaming data environments.
+  - [**Github Repo**](https://github.com/lyraa88/docker-mlops-pipeline.git)
+
+#### 7. 🤖 Multi-Agent LLM Orchestration Framework
+  - Developed a scalable multi-agent system utilizing Model Context Protocol (MCP) and orchestration layers.
+  - Designed efficient communication boundaries and tool-use layers for robust **collaborative AI agent workflows**.
+  - [**Github Repo**](https://github.com/wooriFISA-final/agent.git)
 
 ---
